@@ -1,40 +1,42 @@
-### Hello World 👋 It's [Joinal!](https://joinalahmed.github.io/MyPortfolio/)
+# Hi, I'm Joinal Ahmed 👋
 
-<br/>
-<a href="https://www.linkedin.com/in/joinalahmed/">
-<img align="left" alt="Joinal Ahmed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br />
+**Engineer · Data Scientist · Speaker & Author** — working on AI at Google, based in Bengaluru.
 
-<br />
+I build and evaluate AI systems: agents and their evals, explainability on TPUs, document AI, and NLP for low-resource languages like Assamese. Outside work I'm active in the developer community.
 
-Hi,I'm Joinal Ahmed🙌, a AI Arcihtect. Apart from that I love getting involved with the Community.❤✌
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joinalahmed-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joinalahmed/)
 
+## What I'm working on
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+- 🧪 **[captum-on-torchtpu](https://github.com/joinalahmed/captum-on-torchtpu)** — Captum explainability on Cloud TPUs via TorchTPU: compatibility matrix, device-generic test suite, upstream fixes.
+- 🗣️ **[assamese-forensic-ai](https://github.com/joinalahmed/assamese-forensic-ai)** — Calibrated forensic evidence for Assamese: authorship, romanisation, speaker and machine-text detection.
+- ✅ **[skilleval](https://github.com/joinalahmed/skilleval)** — Deterministic evaluation framework for AI agent skills. Dual-phase scoring, 82+ security patterns, no LLM judges.
+- 🧩 **[agentbuilder](https://github.com/joinalahmed/agentbuilder)** — Valogent, a visual no-code builder for multi-step AI agent workflows.
 
+## Selected projects
 
-**Talking about Personal Stuffs:**
+| Area | Repos |
+|---|---|
+| Agents & evals | [agent-eval](https://github.com/joinalahmed/agent-eval) · [mcp-client](https://github.com/joinalahmed/mcp-client) · [slmeval](https://github.com/joinalahmed/slmeval) |
+| Document AI | [autoprocure](https://github.com/joinalahmed/autoprocure) · [invoiceparsingwithAOAI](https://github.com/joinalahmed/invoiceparsingwithAOAI) · [reimbursement-app-AOAI](https://github.com/joinalahmed/reimbursement-app-AOAI) |
+| RAG & enterprise AI | [RAGwithRBAC](https://github.com/joinalahmed/RAGwithRBAC) · [PrivateGPT](https://github.com/joinalahmed/PrivateGPT) · [AgenticHRSystem](https://github.com/joinalahmed/AgenticHRSystem) · [chat-ui](https://github.com/joinalahmed/chat-ui) |
+| On-device & speech | [ondevice-slm](https://github.com/joinalahmed/ondevice-slm) · [azurespeech](https://github.com/joinalahmed/azurespeech) · [spoken-control-panel](https://github.com/joinalahmed/spoken-control-panel) |
+| MLOps | [abalone-model-build](https://github.com/joinalahmed/abalone-model-build) · [abalone-model-deploy](https://github.com/joinalahmed/abalone-model-deploy) |
 
-- 🔭 I’m currently Freelance AI Architect.
-- 👯 Part of Developer Community.
-- 💬 Ask me  anything about AU , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
+## Community
 
-
-
-**Community**
-- AI COnverge
-- Tensorflow Community Bengaluru
+- AI Converge
+- TensorFlow User Group Bengaluru
 - Google Developer Group Bengaluru
 
-**Languages and Tools:**
+## Stack
 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=joinalahmed&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joinalahmed&show_icons=true&hide_border=true)
