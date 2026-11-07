@@ -1,6 +1,6 @@
 # Hi, I'm Joinal Ahmed 👋
 
-**Head of AI at Mirai, a Scopely company** · Riyadh, Saudi Arabia
+**Senior Product Manager - AI, a Scopely company** · Riyadh, Saudi Arabia
 
 🧠 **Google Developer Expert** in AI/ML and Google Cloud &nbsp;·&nbsp; ⚡ **vLLM TPU builder** &nbsp;·&nbsp; 🎤 Speaker & Author
 
